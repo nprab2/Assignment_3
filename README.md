@@ -15,11 +15,9 @@ The goal of this assignment is to explore constrained optimization and integer p
 - Redistricting is the process by which political district boundaries are drawn, impacting electoral representation. As noted by political strategist Thomas B. Hofeller, redistricting enables politicians to select their voters rather than vice versa. This project will address the complexities of creating a fair redistricting map for Washington, using data from the 2020 U.S. Census.
 
 ## Deliverables
-Written Report: https://github.com/nprab2/Assignment_3/blob/main/MSDS_460_Assignment_3.pdf
+Written Report: 
 
-Program Code: https://github.com/nprab2/Assignment_3/blob/main/assignment3_final.py
-
-Program Output: https://github.com/nprab2/Assignment_3/blob/main/Output.rtf
+Program Code: https://github.com/nprab2/Assignment_3/blob/main/final_assignment3_final.py
 
 Redistribution Map: 
 
