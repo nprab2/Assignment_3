@@ -5,6 +5,7 @@ Revised: September 18, 2024
 
 ## Overview
 This assignment involves a collaborative effort among Team East Coast (and Peru). Our team focused on creating a fair and equitable redistricting plan for the state of Washington. 
+Data: https://github.com/nprab2/Assignment_3/blob/c37f7ecc57674dff9bfd23e189324fdd7063996e/table.csv
 
 ## Objectives
 The goal of this assignment is to explore constrained optimization and integer programming by:
