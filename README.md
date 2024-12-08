@@ -23,7 +23,7 @@ Program Output: https://github.com/nprab2/Assignment_3/blob/main/Output.rtf
 
 Redistribution Map: 
 
-![Redistribution of Counties by District](https://github.com/user-attachments/assets/e56704ce-1b3f-45dd-866e-dc84be8ed215)
+![Redistribution of Counties by District]([https://github.com/user-attachments/assets/e56704ce-1b3f-45dd-866e-dc84be8ed215](https://github.com/nprab2/Assignment_3/blob/main/Counties%20of%20Washington%20State%20by%20District.png))
 
 
 
